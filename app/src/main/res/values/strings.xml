@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rock Paper Scissors</string>
+    <string name="title">Rock Paper Scissors</string>
+    <string name="userChooses">User Chooses</string>
+    <string name="buttonTotals">Totals</string>
+    <string name="textViewTotals">Totals</string>
+    <string name="buttonReturnToMainPage">Return To Main Page</string>
+</resources>
